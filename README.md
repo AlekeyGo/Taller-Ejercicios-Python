@@ -131,22 +131,22 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 | 06 | ¿Cuántos registros tienen la ciudad "Bogota" después de limpiar? | `12530` |
 | 07 | ¿Cuántos registros tienen la ciudad "Medellin" después de limpiar? | `12752` |
 | 08 | ¿Cuántas ciudades únicas existen después de normalizar? | `240` |
-| 09 | ¿Cuántos registros tienen la profesión "Ingeniero" después de limpiar? | `PENDIENTE` |
-| 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `PENDIENTE` |
-| 11 | ¿Cuántas profesiones únicas existen después de normalizar? | `PENDIENTE` |
-| 12 | ¿Cuántos registros tienen el campo `email` con espacios adicionales? | `PENDIENTE` |
-| 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `PENDIENTE` |
-| 14 | ¿Cuál es el salario promedio después de limpiar? | `PENDIENTE` |
-| 15 | ¿Cuál es el salario máximo después de limpiar? | `PENDIENTE` |
-| 16 | ¿Cuál es el salario mínimo después de limpiar? | `PENDIENTE` |
-| 17 | ¿Cuántos registros tienen `activo` como verdadero después de normalizar? | `PENDIENTE` |
-| 18 | ¿Cuántos registros tienen `activo` como falso después de normalizar? | `PENDIENTE` |
-| 19 | ¿Cuántos registros tienen fecha de nacimiento con formato diferente a YYYY-MM-DD? | `PENDIENTE` |
-| 20 | ¿Cuántas personas nacieron entre 1990 y 2000 (inclusive)? | `PENDIENTE` |
-| 21 | ¿Cuántas personas nacieron antes de 1960? | `PENDIENTE` |
-| 22 | ¿Cuántas personas tienen más de 50 años (fecha actual: 2026-02-26)? | `PENDIENTE` |
-| 23 | ¿Cuántos registros tienen nombre "Carlos" y viven en "Cali"? | `PENDIENTE` |
-| 24 | ¿Cuántos registros tienen nombre "Ana" y son "Medico"? | `PENDIENTE` |
+| 09 | ¿Cuántos registros tienen la profesión "Ingeniero" después de limpiar? | `10113` |
+| 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `10051` |
+| 11 | ¿Cuántas profesiones únicas existen después de normalizar? | `294` |
+| 12 | ¿Cuántos registros tienen el campo `email` con espacios adicionales? | `27075` |
+| 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `85266` |
+| 14 | ¿Cuál es el salario promedio después de limpiar? | `7985229.90` |
+| 15 | ¿Cuál es el salario máximo después de limpiar? | `14999908.00` |
+| 16 | ¿Cuál es el salario mínimo después de limpiar? | `1000032.00` |
+| 17 | ¿Cuántos registros tienen `activo` como verdadero después de normalizar? | `139582` |
+| 18 | ¿Cuántos registros tienen `activo` como falso después de normalizar? | `138878` |
+| 19 | ¿Cuántos registros tienen fecha de nacimiento con formato diferente a YYYY-MM-DD? | `89823` |
+| 20 | ¿Cuántas personas nacieron entre 1990 y 2000 (inclusive)? | `37518` |
+| 21 | ¿Cuántas personas nacieron antes de 1960? | `46713` |
+| 22 | ¿Cuántas personas tienen más de 50 años (fecha actual: 2026-02-26)? | `98214` |
+| 23 | ¿Cuántos registros tienen nombre "Carlos" y viven en "Cali"? | `153` |
+| 24 | ¿Cuántos registros tienen nombre "Ana" y son "Medico"? | `142` |
 | 25 | ¿Cuántos registros tienen profesión "Abogado" y salario > 10,000,000? | `PENDIENTE` |
 | 26 | ¿Cuántos registros tienen ciudad "Barranquilla", activos y nacidos después de 1980? | `PENDIENTE` |
 | 27 | ¿Cuál es la ciudad con más "Ingenieros"? | `PENDIENTE` |
