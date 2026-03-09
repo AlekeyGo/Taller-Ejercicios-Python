@@ -147,12 +147,12 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 | 22 | ¿Cuántas personas tienen más de 50 años (fecha actual: 2026-02-26)? | `98214` |
 | 23 | ¿Cuántos registros tienen nombre "Carlos" y viven en "Cali"? | `153` |
 | 24 | ¿Cuántos registros tienen nombre "Ana" y son "Medico"? | `142` |
-| 25 | ¿Cuántos registros tienen profesión "Abogado" y salario > 10,000,000? | `PENDIENTE` |
-| 26 | ¿Cuántos registros tienen ciudad "Barranquilla", activos y nacidos después de 1980? | `PENDIENTE` |
-| 27 | ¿Cuál es la ciudad con más "Ingenieros"? | `PENDIENTE` |
-| 28 | ¿Cuál es la profesión con el salario promedio más alto? | `PENDIENTE` |
-| 29 | ¿Cuántos registros tienen email con dominio "gmail.com"? | `PENDIENTE` |
-| 30 | ¿Cuántos registros tienen nombre "Jose" y apellido "Garcia"? | `PENDIENTE` |
+| 25 | ¿Cuántos registros tienen profesión "Abogado" y salario > 10,000,000? | `2789` |
+| 26 | ¿Cuántos registros tienen ciudad "Barranquilla", activos y nacidos después de 1980? | `1778` |
+| 27 | ¿Cuál es la ciudad con más "Ingenieros"? | `Popayan = 454` |
+| 28 | ¿Cuál es la profesión con el salario promedio más alto? | `Carpintero@` |
+| 29 | ¿Cuántos registros tienen email con dominio "gmail.com"? | `52789` |
+| 30 | ¿Cuántos registros tienen nombre "Jose" y apellido "Garcia"? | `96` |
 
 ---
 
